@@ -1,7 +1,8 @@
 crserver
 ========
 
-This is the server for the chat room application. It keep track of registered user and broadcast message.
+This is the server for the chatroom (https://github.com/atiq21/chatroom.git) application. 
+It keep track of registered user and broadcast message.
 
 You need to provide database password and GOOGLE_API_KEY in config.php.
 
